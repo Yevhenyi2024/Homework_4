@@ -19,8 +19,3 @@ if (isPrime) {
 } else {
     console.log(templist_2);
 }
-
-// while(number % number === 1 && number / 1 === number ){
-// console.log(templist_1);
-
-// }
